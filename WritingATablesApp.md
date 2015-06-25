@@ -1,0 +1,1 @@
+This content has moved to various pages reachable from https://opendatakit.org/use/2_0_tools/
